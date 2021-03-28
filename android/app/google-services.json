@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355227782340",
+    "project_id": "demoquiz-f236c",
+    "storage_bucket": "demoquiz-f236c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355227782340:android:d33a315319a109fcbfcd91",
+        "android_client_info": {
+          "package_name": "com.clarkjoypesco.demoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355227782340-6trc7cj4vjqja07b4cijsinf6b0fiocn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clarkjoypesco.demoquiz",
+            "certificate_hash": "b1a5f8b634c86d55c7565f82b6d6d7e53e48cab8"
+          }
+        },
+        {
+          "client_id": "355227782340-pm17sms6g6gc0gio022ekuitl1mu2edc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXu_P6yOG-IPXyaiT8A2t16dBZ7ZYvBzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355227782340-pm17sms6g6gc0gio022ekuitl1mu2edc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
