@@ -47,8 +47,10 @@ class QuizScreen extends StatelessWidget {
           var state = Provider.of<QuizState>(context); // k
 
           if (!snap.hasData || snap.hasError) {
+            print('ERROR: QUIZ SNAP HAS NO DATA');
             return LoadingScreen();
           } else {
+            print('CONGRATS QUIZ SNAP HAS DATA');
             Quiz quiz = snap.data;
             return Scaffold(
               appBar: AppBar(

@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
         navigatorObservers: [
           FirebaseAnalyticsObserver(analytics: FirebaseAnalytics()),
         ],
-
+        debugShowCheckedModeBanner: false,
+        initialRoute: '/',
         // Named Routes
         routes: {
           '/': (context) => LoginScreen(),
